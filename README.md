@@ -10,11 +10,17 @@ This tool is ideal for cybersecurity students, forensic analysts, and developers
 ---
 
 ## 🛠️ Features
+
 ✅ Select a file from your system
+
 ✅ Choose from four popular hashing algorithms
+
 ✅ Instantly generate hash value of the file
+
 ✅ Paste original hash to verify file integrity
+
 ✅ Modern GUI using Tkinter
+
 ✅ Real-time feedback and alert messages
 
 ---
@@ -42,15 +48,7 @@ The GUI window will open allowing you to browse a file, select a hashing algorit
 
 ---
 
-## 🧪 Supported Hashing Algorithms
 
-Algorithm	Security Level	Speed
-MD5	🔓 Weak	⚡ Fast
-SHA-1	🔓 Weak	⚡ Fast
-SHA-256	🔒 Strong	🐢 Moderate
-SHA-512	🔒 Very Strong	🐢 Moderate
-
----
 
 ## 💡 Usage Example
 
